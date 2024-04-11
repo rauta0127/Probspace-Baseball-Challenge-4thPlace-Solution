@@ -1,9 +1,8 @@
-# probspace_basball_pub
+# Probspace Baseball Challenge Private 4th Place Solution
 
-# Probspace Baseball Challenge Private 4th place solution
+![npb.jpeg](npb.jpeg)
 
-https://prob.space/competitions/npb
-
-Leaderboard: https://prob.space/competitions/npb/ranking
+[Competition Page](https://comp.probspace.com/competitions/npb)
+[Leaderboard Page](https://comp.probspace.com/competitions/npb/ranking)
 
 Private: 4th (Private Score = 0.19004)
